@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/manishyadhuvan6" target="blank"><img src="https://img.shields.io/twitter/follow/manishyadhuvan6?logo=twitter&style=for-the-badge" alt="manishyadhuvan6" /></a> </p>
 
-- 🔭 I’m currently working on **Plant Selliing App**
+- 🔭 I’m currently working on **Plant Selling App**
 
-- 🌱 I’m currently learning **React-Native, DSA**
+- 🌱 I’m currently learning **Web Development, Data Science**
 
 - 💬 Ask me about **React-Native**
 
